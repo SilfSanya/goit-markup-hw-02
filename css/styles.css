@@ -105,8 +105,11 @@ button{
     color: #2e2f42;
     text-transform: capitalize;
 }
+.team-list{
+    background-color: #FFF
+}
 .team-item{
-    background-color: #fff
+    background-color: #FFF
 }
 .team-name{
     font-weight: 500;
